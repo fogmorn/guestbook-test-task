@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::resource('/entry', 'EntryController', ['only' => ['index', 'store', 'create', 'table']]);
+
+Route::post('table', 'EntryController@table');
