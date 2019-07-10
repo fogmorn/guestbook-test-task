@@ -5,7 +5,7 @@ Guest book using Laravel with DataTables
  - virtualbox `>= 5.2.14`
 
 ## Installation
-Clone project `git clone git@github.com:fogmorn/guestbook-test-task.git`
+Clone project `git clone https://github.com/fogmorn/guestbook-test-task.git`
 
 Installing The Homestead Vagrant Box  
 ```
