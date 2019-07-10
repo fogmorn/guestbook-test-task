@@ -3,7 +3,6 @@ Guest book using Laravel with DataTables
 ## Requirements
  - vagrant `>= 2.1.2`
  - virtualbox `>= 5.2.14`
- - git
 
 ## Installation
 Clone project `git clone git@github.com:fogmorn/guestbook-test-task.git`
